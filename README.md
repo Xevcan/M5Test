@@ -1,2 +1,5 @@
 # M5Test
-Provando el GIT aqui de trankis
+Provando el GIT aquí de trankis
+
+@autor: Johan Gonzalez Florez
+@Licencia: Sí
